@@ -15,7 +15,7 @@ BCS-TEAM
 * pip3 install requests
 * git clone https://github.com/TEAMBCS/SmsBombing
 * cd SmsBombing
-* python sms.py
+* python SMS.py
 
 
 
