@@ -18,7 +18,8 @@ BCS-TEAM
 * cd SmsBombing
 * python SMS.py
 
-
+* Tool Username: TEAMBCS
+* Tool Password: TEAMBCS
 
 
 # ©️BCS TEAM
