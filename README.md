@@ -8,7 +8,7 @@ STLP-TEAM
 
 
 # INSTALLATION ⬇️
-*pkg update -y
+* pkg update -y
 * pkg upgrade -y
 * pkg install git -y
 * pkg install python -y
