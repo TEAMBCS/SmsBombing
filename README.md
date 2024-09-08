@@ -21,3 +21,4 @@ STLP-TEAM
 
 
 # ©️BCS TEAM
+* This Tool only Friend prank's Our team is not responsible if it is used by someone for unethical activities.
