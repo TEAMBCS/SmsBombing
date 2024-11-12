@@ -18,9 +18,5 @@ BCS-TEAM
 * cd SmsBombing
 * python SMS.py
 
-* Tool Username: TEAMBCS
-* Tool Password: TEAMBCS
-
-
 # ©️BCS TEAM
 * This Tool only Friend prank's Our team is not responsible if it is used by someone for unethical activities.
