@@ -16,6 +16,7 @@ BCS-TEAM
  rm -rf SmsBombing
  git clone https://github.com/TEAMBCS/SmsBombing
  cd SmsBombing
+ chmod +x *
  pip install -r bomb.txt
  python sms-bomb.py
 ```
