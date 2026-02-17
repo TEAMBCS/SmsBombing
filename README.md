@@ -18,7 +18,7 @@ BCS-TEAM
  cd SmsBombing
  chmod +x *
  pip install -r bomb.txt
- python sms-bomb.py
+ python3 sms-bomb.py
 ```
 # ©️BCS TEAM
 * This Tool only Friend prank's Our team is not responsible if it is used by someone for unethical activit
